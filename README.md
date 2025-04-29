@@ -2,14 +2,11 @@
 <h3 align="center">Full Stack & DevOps Engineer</h3>
 
 
----
-
 ## About me
 
 ```yml
 sobre mi en yml
 ```
-
 
 ## Technology and Skills
 
@@ -92,5 +89,3 @@ sobre mi en yml
 </a>
 
 </p>
-
-![Snake animation](https://github.com/andresmarinabad/andresmarinabad/blob/output/github-contribution-grid-snake.svg)
