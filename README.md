@@ -5,7 +5,89 @@
 ## About me
 
 ```yml
-sobre mi en yml
+- info:
+    name: Andrés Marín Abad
+    title: Senior Software Engineer | Cloud & DevOps Specialist
+    location: Barcelona, Spain
+    summary: >
+      Developer with a BSc in Computing and over nine years of experience in software development,
+      web applications, and system design/management. Meticulous, self-driven, and adaptable, with strong
+      communication and leadership skills. Passionate about software architecture, DevOps, and continuous learning.
+
+- experience:
+  - role: Senior Software Engineer | Cloud & DevOps Specialist
+    company: International Airlines Group (IAG)
+    location: Barcelona, Spain (Hybrid)
+    period: Oct 2023 – Present
+    projects:
+      - Infrastructure as Code:
+          description: >
+            Automates GitHub resource management using Terraform and GitHub Actions for CI/CD. Improves scalability,
+            security, and consistency in IAG’s development workflows.
+          skills: [Terraform, GitHub Actions, Python, Bash]
+      - Contract Digitisation:
+          description: >
+            Uses AI models to extract KPIs from documents (contracts, invoices), minimizing manual effort and
+            improving data accuracy.
+          skills: [Python, AWS, FastAPI, PowerApps, Power Automate]
+      - Apex Portal:
+          description: >
+            Centralized procurement platform to increase tool adoption, knowledge sharing, and process alignment.
+          skills: [Python, React.js, AWS]
+      - IAGChat:
+          description: >
+            ChatGPT-like app using Azure OpenAI and AI Search to query internal data through RAG (Retrieval Augmented Generation).
+          skills: [Python, React.js, Azure, Azure DevOps]
+
+  - role: Senior Backend Developer
+    company: Entain
+    location: Barcelona, Spain (Hybrid)
+    period: Aug 2020 – Oct 2023
+
+  - role: Senior Python Developer
+    company: Pragsis Bidoop
+    location: Barcelona, Spain (Hybrid)
+    period: May 2019 – Aug 2020
+
+  - role: Senior Security Python Developer
+    company: Deloitte
+    location: Barcelona, Spain (On-site)
+    period: Sep 2017 – May 2019
+
+  - role: Python Developer
+    company: K-LAGAN
+    location: Barcelona, Spain (On-site)
+    period: Nov 2016 – Sep 2017
+
+  - role: Backend Developer
+    company: VIEWNEXT
+    location: Barcelona, Spain (On-site)
+    period: Jan 2016 – Nov 2016
+
+  - role: Backend Developer
+    company: T-Systems Iberia
+    location: Barcelona, Spain (On-site)
+    period: Jul 2015 – Jan 2016
+
+  - role: Python Developer
+    company: Pulsion Technology
+    location: Glasgow, UK (Part-time)
+    period: Sep 2014 – May 2015
+
+- education:
+  - degree: MSc in DevOps, Cloud Computing & Software Automation
+    institution: UNIR - Universidad Internacional de La Rioja
+    period: Sep 2018 – Jun 2019
+
+  - degree: BSc in Computing
+    institution: University of the West of Scotland
+    period: Sep 2014 – Jul 2015
+
+  - degree: Computer Engineering
+    institution: Universitat Ramon Llull
+    period: Sep 2008 – Jun 2014
+    grade: 7.4/10
+
 ```
 
 ## Technology and Skills
