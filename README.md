@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I am Andres Marin</h1>
-<h3 align="center">Full Stack & DevOps Engineer</h3>
+<h3 align="center">Senior DevOps Engineer</h3>
 
 
 ## About me
@@ -7,16 +7,16 @@
 ```yml
 - info:
     name: Andrés Marín Abad
-    title: Senior Software Engineer | Cloud & DevOps Specialist
+    title: Senior DevOps Engineer
     location: Barcelona, Spain
     summary: >
-      Developer with a BSc in Computing and over nine years of experience in software development,
+      DevOps with a BSc in Computing and over nine years of experience in software development,
       web applications, and system design/management. Meticulous, self-driven, and adaptable, with strong
       communication and leadership skills. Passionate about software architecture, DevOps, and continuous learning.
 
 - experience:
-  - role: Senior Software Engineer | Cloud & DevOps Specialist
-    company: International Airlines Group (IAG)
+  - role: Senior DevOps | Cloud Specialist
+    company: IAG Transform
     location: Barcelona, Spain (Hybrid)
     period: Oct 2023 – Present
     projects:
