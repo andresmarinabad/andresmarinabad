@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I am Andres Marin</h1>
 <h3 align="center">Senior DevOps Engineer</h3>
 
-<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Andrés%20Marín%20Abad-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/tu-usuario/)
 
 
 ## About me
