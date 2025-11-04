@@ -1,6 +1,8 @@
 <h1 align="center">Hi, I am Andres Marin</h1>
 <h3 align="center">Senior DevOps Engineer</h3>
 
+<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
+
 
 ## About me
 
