@@ -1,11 +1,7 @@
 <h1 align="center">Hi, I am Andres Marin</h1>
 <h3 align="center">Senior DevOps Engineer</h3>
 
-[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Andrés%20Marín%20Abad-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/tu-usuario/)
-
-<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
-
-<div class="badge-base LI-profile-badge" data-locale="es_ES" data-size="medium" data-theme="light" data-type="VERTICAL" data-vanity="andrés-marín-abad-6461a52b3" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://es.linkedin.com/in/andr%C3%A9s-mar%C3%ADn-abad-6461a52b3?trk=profile-badge">Andrés Marín Abad</a></div>
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Andrés%20Marín%20Abad-blue?style=flat-square&logo=linkedin)](https://es.linkedin.com/in/andr%C3%A9s-mar%C3%ADn-abad-6461a52b3?trk=profile-badge)
               
 
 
