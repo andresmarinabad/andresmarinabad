@@ -19,9 +19,24 @@
 
 - experience:
   - role: Senior DevOps | Cloud Specialist
+    company: Aistech Space
+    location: Barcelona, Spain (Hybrid)
+    period: Nov 2025 - Present
+    projects:
+      - DevOps:
+          description: >
+            Automates GitHub resource management using OpenTofu and GitHub Actions for CI/CD. Improves scalability,
+            security, and consistency in IAG’s development workflows.
+          skills: [OpenTofu, GitHub Actions, Python, Bash]
+      - ATDS:
+          description: >
+            Aistech Solutions for capturing Thermal Earth Images from space.
+          skills: [Python, GCP, Go, ]
+
+  - role: Senior DevOps | Cloud Specialist
     company: IAG Transform
     location: Barcelona, Spain (Hybrid)
-    period: Oct 2023 – Present
+    period: Oct 2023 – Nov 2025
     projects:
       - Infrastructure as Code:
           description: >
@@ -146,31 +161,5 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vim/vim-original.svg" width="45" height="45" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="45" height="45" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="45" height="45" />
-</p>
-
-
-
-
-## GitHub Stats
-
-<p align="center">
-
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=andresmarinabad" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=andresmarinabad&layout=compact&langs_count=8&card_width=320" />
-</a>
-
-</p>
-
-
-### Recent Activity
-
-<p align="center">
-
-<a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-  <img height=300 align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=andresmarinabad&theme=github" />
-</a>
-
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nixos/nixos-original.svg" width="45" height="45" />
 </p>
